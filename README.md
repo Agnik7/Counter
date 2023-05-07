@@ -1,4 +1,16 @@
 # Counter
-It is such a counter that if u press increase button the number will go increasing and on presssing decrease the number will continue to decrease and pressing reset will reset the value to 0.Also the colour of the number changes accordingly.
-Languages used: HTML,CSS,JAVASCRIPT
+A simple counter app, having an increase, decrease and a reset button.
+
+Upon pressing the increase button, the number will increase.
+
+Upon pressing the decrease button, the number will decrease.
+
+Upon pressing the reset button, the number will reset to 0.
+
+The color of the number also changes accordingly. Upon clicking on the increase button, the color changes to **red.** Upon clicking on the decrease button, the color changes to **green**. Upon clicking on the reset button, the color changes to **black.**
+
+## Languages used:
+- HTML
+- CSS
+- JAVASCRIPT
 
